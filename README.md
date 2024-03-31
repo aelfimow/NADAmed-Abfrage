@@ -1,2 +1,3 @@
 # NADAmed-Abfrage
-Sammlung meiner NADAmed Abfragen
+
+Sammlung meiner NADAmed Medikamenten-Datenbank Abfragen.
